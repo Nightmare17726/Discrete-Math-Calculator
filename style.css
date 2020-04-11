@@ -1,0 +1,46 @@
+body{
+	background-color: #f5d667;
+}
+
+#title{
+	border-top: solid black 2px;
+	border-bottom: solid black 2px;
+	border-right: solid black 2px;
+	border-left: solid black 2px;
+}
+
+span.small {
+    display: inline-block;
+    width: 300px;
+    height: 200px;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: white;
+    margin-right: 18px;
+    margin-left: 18px;
+	margin-bottom: 18px;
+    line-height: 380px;
+	cursor: pointer;
+}
+
+#gOne{
+	display: inline-block;
+	margin-right: 18px;
+}
+
+#gTwo{
+	display: inline-block;
+}
+
+#gThree{
+	display: inline-block;
+	margin-left: 18px;
+}
+
+#LCresult{
+	width: 300px;
+}
+
+#PRIMEres{
+	height: 300px;
+}
